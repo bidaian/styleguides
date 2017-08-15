@@ -2,7 +2,7 @@
 
 ## Ĝeneralaj reguloj por tradukoj
 
-### Elektado de vortoj
+### Elekto de vortoj
 
 Bonvolu kontroli kiel oni tradukis antaŭe similajn frazojn (langeto Machinery en Pontoon). Vi povas uzi ankaŭ Transvision por tio. Manko da kohereco povas esti kialo ne akcepti (aŭ devi modifi) sugestitan tradukon, eĉ se la traduko estis bona. Ekzemple, kaj "forviŝi" kaj "forigi" povas esti taŭgaj tradukoj por "delete", sed ni uzas "forigi" en Firefox.
 
